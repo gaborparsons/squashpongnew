@@ -1,2 +1,1 @@
-squashpongnew
-=============
+Squaspong Game
